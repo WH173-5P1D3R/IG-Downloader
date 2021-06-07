@@ -9,8 +9,8 @@ echo "
   | | |_| |_____| |_| | |_| |\ V  V / | |\  | |__| |_| / ___ \| |_| | |___|  _ < 
  |___\____|     |____/ \___/  \_/\_/  |_| \_|_____\___/_/   \_\____/|_____|_| \_\
                                                                                                                                                                                                                      
-              Instagram IMAGE/VIDEO Downloader                                                                        
-                     Coded By WH173 5P1D3R
+              Instagram IMAGE/VIDEO Downloading Link Generator                                                                        
+                         Coded By WH173 5P1D3R
 
 ";
 echo "Enter URL Post ( Ex: https://www.instagram.com/p/BDwuqbFBAcY ) : ";
